@@ -312,3 +312,14 @@ button,
   }
 
 }
+@media screen and (max-width: 576px) {
+
+  .container .row .left-wrap .left p {
+    margin-bottom: 30px !important;
+  }
+
+  .left img {
+    margin-top: 60px !important;
+  }
+
+}
