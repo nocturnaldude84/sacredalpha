@@ -284,7 +284,7 @@ button,
 }
 @media (max-width: 768px) {
 
-  img {
+.left img {
     width: 200px !important;
     max-width: 200px !important;
     margin-top: 40px !important;
@@ -299,6 +299,15 @@ button,
   }
 
   .left {
+    padding-top: 40px;
+  }
+
+}
+@media screen and (max-width: 576px) {
+
+  .container .row .left-wrap .left {
+    height: 70vh !important;
+    justify-content: flex-start !important;
     padding-top: 40px;
   }
 
