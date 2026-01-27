@@ -282,3 +282,24 @@ button,
   margin-top: 60px;
   display: inline-block;
 }
+@media (max-width: 768px) {
+
+  img {
+    width: 200px !important;
+    max-width: 200px !important;
+    margin-top: 40px !important;
+  }
+
+  h1 {
+    font-size: 42px !important;
+  }
+
+  h2 {
+    font-size: 18px !important;
+  }
+
+  .left {
+    padding-top: 40px;
+  }
+
+}
