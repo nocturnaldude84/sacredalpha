@@ -1,9 +1,5 @@
 /*------------------------------------------------------------------
-Project:  ComingSoon template
-Version:  1.0
-Last change:  2.07.2020
-Assigned to:  Pawel Zuchowski
-Primary use:  Free to use under Creative Commons
+Sacred Alpha
 -------------------------------------------------------------------*/
 body,
 body * {
@@ -281,4 +277,8 @@ button,
 .linkedin::before {
   font-family: "Font Awesome 5 Brands";
   content: "\f08c";
+}
+.icon {
+  margin-top: 20px;
+  display: inline-block;
 }
