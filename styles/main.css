@@ -270,7 +270,7 @@ button,
   content: "\f08c";
 }
 .icon {
-  margin-top: 60px;
+  margin-top: 40px;
   display: inline-block;
 }
 @media (max-width: 768px) {
