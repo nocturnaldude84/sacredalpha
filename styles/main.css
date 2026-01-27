@@ -305,21 +305,16 @@ button,
 }
 @media screen and (max-width: 576px) {
 
-  .container .row .left-wrap .left {
-    height: 70vh !important;
+  .left {
     justify-content: flex-start !important;
-    padding-top: 40px;
   }
 
-}
-@media screen and (max-width: 576px) {
-
-  .container .row .left-wrap .left p {
-    margin-bottom: 30px !important;
+  .left p {
+    margin-bottom: 40px !important;
   }
 
   .left img {
-    margin-top: 60px !important;
+    margin-top: 40px !important;
   }
 
 }
